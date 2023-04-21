@@ -26,6 +26,6 @@ What I have learned
 
 File Dictionaries
 
-Final_ecTeam.ipynb: this notebook contains all of project details, such as business understanding, exploratory data analysis & insights, data preprocessing and modeling.
-Final Project Preparation_ec-Team.pptx: summary of the project.
-requirements.txt: list of used libraries with its version.
+- Final_ecTeam.ipynb: this notebook contains all of project details, such as business understanding, exploratory data analysis & insights, data preprocessing and modeling.
+- Final Project Preparation_ec-Team.pptx: summary of the project.
+- requirements.txt: list of used libraries with its version.
