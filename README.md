@@ -7,7 +7,7 @@ Tools: Python, JupyterLab, Git
 
 Libraries: Pandas, Numpy, Feature-engine, Scikit-learn, Imbalanced-learn
 
-Dataset: Online Shoppers Purchasing Intention, UCI Machine Learning, 2018 [source](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)
+Dataset: Online Shoppers Purchasing Intention, UCI Machine Learning, 2018 [[source]](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)
 
 Summary of the analysis
 
